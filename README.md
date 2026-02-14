@@ -1,4 +1,4 @@
-# Oasis Infobyte Internship Projects (OIBSIP)
+# Oasis Infobyte Internship Project (OIBSIP)
 
 This repository contains the projects completed as part of my **Web Development & Design Internship** at **Oasis Infobyte**.
 
